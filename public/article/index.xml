@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Rogan的分享</title>
+    <link>https://rogan.app/article/</link>
+    <description>Recent content in Articles on Rogan的分享</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>quangenw@gmail.com (Rogan)</managingEditor>
+    <webMaster>quangenw@gmail.com (Rogan)</webMaster>
+    <lastBuildDate>Mon, 08 Oct 2018 06:35:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://rogan.app/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>嘉兴南湖体会</title>
+      <link>https://rogan.app/article/2018-10-08-red-boat/</link>
+      <pubDate>Mon, 08 Oct 2018 06:35:16 +0800</pubDate>
+      <author>quangenw@gmail.com (Rogan)</author>
+      <guid>https://rogan.app/article/2018-10-08-red-boat/</guid>
+      <description>红船精神的前两句，同样适用于组织团队。若要引领时代潮流、主导发展趋势，需要有开天辟地、敢为人先、百折不挠、奋斗不止的精神。 1946年，褚辅成所题：“分烟话雨”。</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://rogan.app/article/2018-10-01-hello-world/</link>
+      <pubDate>Mon, 01 Oct 2018 21:31:56 +0800</pubDate>
+      <author>quangenw@gmail.com (Rogan)</author>
+      <guid>https://rogan.app/article/2018-10-01-hello-world/</guid>
+      <description>Hi, there! 又重新写起了博客，又可以记录些文字，或总结、或思考，抑或点滴无关紧要的记录。 如果有人觉得有用，那它就有价值，这些文字也会因此感到欣慰。 So, 一起享受这段旅程吧。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -15,10 +15,10 @@
     
     <item>
       <title>应用选型</title>
-      <link>https://rogan.app/cloud-native/2018-10-08-application-selection/</link>
+      <link>https://rogan.app/post/2018-10-08-application-selection/</link>
       <pubDate>Mon, 08 Oct 2018 21:33:15 +0800</pubDate>
       <author>quangenw@gmail.com (Rogan)</author>
-      <guid>https://rogan.app/cloud-native/2018-10-08-application-selection/</guid>
+      <guid>https://rogan.app/post/2018-10-08-application-selection/</guid>
       <description>大型应用：以中大型企业、某一行业或领域的分布式系统为代表。需要专业团队进行开发、维护。 小型应用：以中小企业的单体应用业务系统为代表。可以选择现有的开源框架进行快</description>
     </item>
     

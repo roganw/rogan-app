@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>D2D（Design to Delivery）：设计即交付</title>
-  <meta property="og:title" content="D2D（Design to Delivery）：设计即交付" />
-  <meta name="twitter:title" content="D2D（Design to Delivery）：设计即交付" />
-  <meta name="description" content="——未来的应用软件交付方式 随着基础应用的日渐成熟，业务应用的开发者，已经越来越不需要关心基础组件的实现过程，DB、MQ、Cache、Auth、Config、Mo">
-  <meta property="og:description" content="——未来的应用软件交付方式 随着基础应用的日渐成熟，业务应用的开发者，已经越来越不需要关心基础组件的实现过程，DB、MQ、Cache、Auth、Config、Mo">
-  <meta name="twitter:description" content="——未来的应用软件交付方式 随着基础应用的日渐成熟，业务应用的开发者，已经越来越不需要关心基础组件的实现过程，DB、MQ、Cache、Auth、Config、Mo">
+  <title>应用选型</title>
+  <meta property="og:title" content="应用选型" />
+  <meta name="twitter:title" content="应用选型" />
+  <meta name="description" content="大型应用：以中大型企业、某一行业或领域的分布式系统为代表。需要专业团队进行开发、维护。 小型应用：以中小企业的单体应用业务系统为代表。可以选择现有的开源框架进行快">
+  <meta property="og:description" content="大型应用：以中大型企业、某一行业或领域的分布式系统为代表。需要专业团队进行开发、维护。 小型应用：以中小企业的单体应用业务系统为代表。可以选择现有的开源框架进行快">
+  <meta name="twitter:description" content="大型应用：以中大型企业、某一行业或领域的分布式系统为代表。需要专业团队进行开发、维护。 小型应用：以中小企业的单体应用业务系统为代表。可以选择现有的开源框架进行快">
   <meta name="author" content="Rogan"/>
   <link href='https://rogan.app/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://rogan.app/img/logo.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@quangenw" />
   <meta name="twitter:creator" content="@quangenw" />
-  <meta property="og:url" content="https://rogan.app/cloud-native/2018-10-05-d2d/" />
+  <meta property="og:url" content="https://rogan.app/post/2018-10-08-application-selection/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Rogan的分享" />
 
   <meta name="generator" content="Hugo 0.49" />
-  <link rel="canonical" href="https://rogan.app/cloud-native/2018-10-05-d2d/" />
+  <link rel="canonical" href="https://rogan.app/post/2018-10-08-application-selection/" />
   <link rel="alternate" href="https://rogan.app/index.xml" type="application/rss+xml" title="Rogan的分享">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -65,13 +65,13 @@ if (!doNotTrack) {
         
           
             <li>
-              <a title="云原生" href="/cloud-native">云原生</a>
+              <a title="云原生" href="/post">云原生</a>
             </li>
           
         
           
             <li>
-              <a title="经行记" href="/post">经行记</a>
+              <a title="经行记" href="/article">经行记</a>
             </li>
           
         
@@ -188,14 +188,26 @@ if (!doNotTrack) {
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="cloud-native-heading">
+            <div class="post-heading">
               
-                <h1>D2D（Design to Delivery）：设计即交付</h1>
-              
-              
-                <hr class="small">
+                <h1>应用选型</h1>
               
               
+              
+              
+                <span class="post-meta">
+  
+  
+  <i class="fa fa-calendar-o"></i>&nbsp;Posted on 2018-10-08
+  
+  
+  &nbsp;|&nbsp;
+  <i class="fa fa-clock-o"></i> 1 minutes (222 words)
+  
+  
+</span>
+
+
               
             </div>
           </div>
@@ -210,33 +222,75 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        
+        <p>大型应用：以中大型企业、某一行业或领域的<code>分布式系统</code>为代表。需要专业团队进行开发、维护。</p>
 
-<h3 id="未来的应用软件交付方式">——未来的应用软件交付方式</h3>
+<p>小型应用：以中小企业的<code>单体应用</code>业务系统为代表。可以选择现有的开源框架进行快速二次开发。</p>
 
-<p>随着基础应用的日渐成熟，业务应用的开发者，已经越来越不需要关心基础组件的实现过程，DB、MQ、Cache、Auth、Config、Monitor等等，都可以部署即用，各种Frontend Components也是层出不穷。</p>
+<table>
+<thead>
+<tr>
+<th>指标\类型</th>
+<th>大型应用</th>
+<th>小型应用</th>
+</tr>
+</thead>
 
-<p>能够根据预定义的业务场景，以及用户自定义的属性和处理，将这些基础组件自动化、智能化构建在一起的平台将成为未来PaaS的发展趋势。</p>
+<tbody>
+<tr>
+<td>用户量</td>
+<td>大</td>
+<td>小</td>
+</tr>
 
-<p>而这样的平台，能够完成从设计到交付（包括打包、测试、部署、配置等的中间过程）的完整过程，也即D2D（Design to Delivery）的概念实现。</p>
+<tr>
+<td>并发量</td>
+<td>大</td>
+<td>小</td>
+</tr>
 
-<p>生产环境的部署形态，将由业务需求和平台的复杂程度决定。可以由PaaS自动化部署到公有云环境，也可以将生成的服务代码在CI/CD过程中部署到私有环境，甚至是复杂的混合云环境。</p>
+<tr>
+<td>数据量</td>
+<td>中、大</td>
+<td>中、小</td>
+</tr>
 
-<p>当中最有价值的，也是机器不可替代的部分，是各种业务场景和行业经验的积累。</p>
+<tr>
+<td>可扩展性</td>
+<td>高</td>
+<td>低</td>
+</tr>
 
-<p>相较于传统交付方式，该平台更能适应变更、更容易满足客制化需求、更快交付上线。</p>
+<tr>
+<td>可维护性</td>
+<td>高</td>
+<td>中、低</td>
+</tr>
 
-<p>后续将根据进一步分析，将这样的平台拆分和细化为可实现、可扩展的构件。</p>
+<tr>
+<td>原型成本</td>
+<td>高</td>
+<td>低</td>
+</tr>
 
-<p><img src="/img/cloud-native/d2d.png" alt="D2D" /></p>
+<tr>
+<td>总体拥有成本</td>
+<td>高、中</td>
+<td>中、低</td>
+</tr>
+</tbody>
+</table>
+
+<p>由此可见，单体应用原型成本低廉，但应用范围也比较局限。</p>
+
+<p>从可扩展性和总体成本的角度讲，大型应用适合需要长期演化的产品，小型应用适合短期一次性项目。</p>
 
 
         
           <div class="blog-tags">
             
-              <a href="https://rogan.app//tags/d2d/">D2D</a>&nbsp;
+              <a href="https://rogan.app//tags/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8/">分布式应用</a>&nbsp;
             
-              <a href="https://rogan.app//tags/%E8%AE%BE%E8%AE%A1%E5%8D%B3%E4%BA%A4%E4%BB%98/">设计即交付</a>&nbsp;
+              <a href="https://rogan.app//tags/%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8/">单体应用</a>&nbsp;
             
           </div>
         
@@ -248,13 +302,9 @@ if (!doNotTrack) {
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://rogan.app/cloud-native/2018-10-04-mind-map/" data-toggle="tooltip" data-placement="top" title="云原生应用">&larr; Previous Post</a>
+              <a href="https://rogan.app/post/2018-10-07-intelligent-manufacture/" data-toggle="tooltip" data-placement="top" title="智能制造发展规划（2016-2020年）">&larr; Previous Post</a>
             </li>
           
-          
-            <li class="next">
-              <a href="https://rogan.app/cloud-native/2018-10-07-intelligent-manufacture/" data-toggle="tooltip" data-placement="top" title="智能制造发展规划（2016-2020年）">Next Post &rarr;</a>
-            </li>
           
         </ul>
       
