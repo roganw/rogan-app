@@ -1,0 +1,84 @@
+baseURL = "https://rogan.app/"
+languageCode = "zh-cn"
+hasCJKLanguage = true
+title = "Rogan的分享"
+theme = "beautifulhugo"
+summaryLength = 80
+
+enableEmoji = true
+googleAnalytics = "UA-126620722-1"
+
+[Params]
+    subtitle = "阅读使人进步"
+    logo = "img/logo.png"
+    favicon = "img/favicon.ico"
+    dateFormat = "2006-01-02"
+    commit = false
+    rss = true
+    comments = true
+    readingTime = true
+    useHLJS = true
+    # socialShare = true
+
+[[Params.bigimg]]
+    src = "img/cloud-city.jpg"
+    desc = "Cloud City"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+    name = "Rogan"
+    website = "https://rogan.app"
+    github = "roganw"
+    email = "quangenw@gmail.com"
+    linkedin = "roganw"
+    twitter = "quangenw"
+    youtube = "channel/UCVoSb_qlUDiE0r7J-svef3g"
+
+[[menu.main]]
+    name = "云原生"
+    url = "cloud-native"
+    weight = 10
+
+[[menu.main]]
+    name = "经行记"
+    url = "post"
+    weight = 15
+
+[[menu.main]]
+    identifier = "books"
+    name = "书籍"
+    weight = 20
+
+[[menu.main]]
+    parent = "books"
+    name = "云原生微服务指南"
+    url = "planning"
+    weight = 10
+
+[[menu.main]]
+    parent = "books"
+    name = "Odoo应用指南"
+    url = "planning"
+    weight = 20
+
+# [[menu.main]]
+#     name = "项目"
+#     url = "tags"
+#     weight = 30
+
+[[menu.main]]
+    name = "标签"
+    url = "tags"
+    weight = 40
+
+[[menu.main]]
+    name = "关于"
+    url = "about"
+    weight = 50

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>智能制造 on Rogan的分享</title>
+    <link>https://rogan.app/tags/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0/</link>
+    <description>Recent content in 智能制造 on Rogan的分享</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>quangenw@gmail.com (Rogan)</managingEditor>
+    <webMaster>quangenw@gmail.com (Rogan)</webMaster>
+    <lastBuildDate>Sun, 07 Oct 2018 20:12:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://rogan.app/tags/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>智能制造发展规划（2016-2020年）</title>
+      <link>https://rogan.app/cloud-native/2018-10-07-intelligent-manufacture/</link>
+      <pubDate>Sun, 07 Oct 2018 20:12:53 +0800</pubDate>
+      <author>quangenw@gmail.com (Rogan)</author>
+      <guid>https://rogan.app/cloud-native/2018-10-07-intelligent-manufacture/</guid>
+      <description>附件下载链接：智能制造发展规划（2016-2020年） 重点任务： （一）加快智能制造装备发展 （二）加强关键共性技术创新 （三）建设智能制造标准体系 （四）构筑工业互联</description>
+    </item>
+    
+  </channel>
+</rss>
