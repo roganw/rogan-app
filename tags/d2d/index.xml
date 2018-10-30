@@ -15,10 +15,10 @@
     
     <item>
       <title>D2D（Design to Delivery）：设计即交付</title>
-      <link>https://rogan.app/cloud-native/2018-10-05-d2d/</link>
+      <link>https://rogan.app/post/2018-10-05-d2d/</link>
       <pubDate>Fri, 05 Oct 2018 21:09:22 +0800</pubDate>
       <author>quangenw@gmail.com (Rogan)</author>
-      <guid>https://rogan.app/cloud-native/2018-10-05-d2d/</guid>
+      <guid>https://rogan.app/post/2018-10-05-d2d/</guid>
       <description>——未来的应用软件交付方式 随着基础应用的日渐成熟，业务应用的开发者，已经越来越不需要关心基础组件的实现过程，DB、MQ、Cache、Auth、Config、Mo</description>
     </item>
     

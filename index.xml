@@ -15,28 +15,28 @@
     
     <item>
       <title>应用选型</title>
-      <link>https://rogan.app/cloud-native/2018-10-08-application-selection/</link>
+      <link>https://rogan.app/post/2018-10-08-application-selection/</link>
       <pubDate>Mon, 08 Oct 2018 21:33:15 +0800</pubDate>
       <author>quangenw@gmail.com (Rogan)</author>
-      <guid>https://rogan.app/cloud-native/2018-10-08-application-selection/</guid>
+      <guid>https://rogan.app/post/2018-10-08-application-selection/</guid>
       <description>大型应用：以中大型企业、某一行业或领域的分布式系统为代表。需要专业团队进行开发、维护。 小型应用：以中小企业的单体应用业务系统为代表。可以选择现有的开源框架进行快</description>
     </item>
     
     <item>
       <title>嘉兴南湖体会</title>
-      <link>https://rogan.app/post/2018-10-08-red-boat/</link>
+      <link>https://rogan.app/article/2018-10-08-red-boat/</link>
       <pubDate>Mon, 08 Oct 2018 06:35:16 +0800</pubDate>
       <author>quangenw@gmail.com (Rogan)</author>
-      <guid>https://rogan.app/post/2018-10-08-red-boat/</guid>
+      <guid>https://rogan.app/article/2018-10-08-red-boat/</guid>
       <description>红船精神的前两句，同样适用于组织团队。若要引领时代潮流、主导发展趋势，需要有开天辟地、敢为人先、百折不挠、奋斗不止的精神。 1946年，褚辅成所题：“分烟话雨”。</description>
     </item>
     
     <item>
       <title>智能制造发展规划（2016-2020年）</title>
-      <link>https://rogan.app/cloud-native/2018-10-07-intelligent-manufacture/</link>
+      <link>https://rogan.app/post/2018-10-07-intelligent-manufacture/</link>
       <pubDate>Sun, 07 Oct 2018 20:12:53 +0800</pubDate>
       <author>quangenw@gmail.com (Rogan)</author>
-      <guid>https://rogan.app/cloud-native/2018-10-07-intelligent-manufacture/</guid>
+      <guid>https://rogan.app/post/2018-10-07-intelligent-manufacture/</guid>
       <description>附件下载链接：智能制造发展规划（2016-2020年） 重点任务： （一）加快智能制造装备发展 （二）加强关键共性技术创新 （三）建设智能制造标准体系 （四）构筑工业互联</description>
     </item>
     
@@ -51,19 +51,19 @@
     
     <item>
       <title>D2D（Design to Delivery）：设计即交付</title>
-      <link>https://rogan.app/cloud-native/2018-10-05-d2d/</link>
+      <link>https://rogan.app/post/2018-10-05-d2d/</link>
       <pubDate>Fri, 05 Oct 2018 21:09:22 +0800</pubDate>
       <author>quangenw@gmail.com (Rogan)</author>
-      <guid>https://rogan.app/cloud-native/2018-10-05-d2d/</guid>
+      <guid>https://rogan.app/post/2018-10-05-d2d/</guid>
       <description>——未来的应用软件交付方式 随着基础应用的日渐成熟，业务应用的开发者，已经越来越不需要关心基础组件的实现过程，DB、MQ、Cache、Auth、Config、Mo</description>
     </item>
     
     <item>
       <title>云原生应用</title>
-      <link>https://rogan.app/cloud-native/2018-10-04-mind-map/</link>
+      <link>https://rogan.app/post/2018-10-04-mind-map/</link>
       <pubDate>Thu, 04 Oct 2018 21:01:11 +0800</pubDate>
       <author>quangenw@gmail.com (Rogan)</author>
-      <guid>https://rogan.app/cloud-native/2018-10-04-mind-map/</guid>
+      <guid>https://rogan.app/post/2018-10-04-mind-map/</guid>
       <description>云原生生态组件真的非常繁多，而且增长势头强劲，根据之前的调研和选型使用（企业应用领域），简单整理成思维导图如下，不同场景下可能会有更多其它选择：</description>
     </item>
     
@@ -78,10 +78,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://rogan.app/post/2018-10-01-hello-world/</link>
+      <link>https://rogan.app/article/2018-10-01-hello-world/</link>
       <pubDate>Mon, 01 Oct 2018 21:31:56 +0800</pubDate>
       <author>quangenw@gmail.com (Rogan)</author>
-      <guid>https://rogan.app/post/2018-10-01-hello-world/</guid>
+      <guid>https://rogan.app/article/2018-10-01-hello-world/</guid>
       <description>Hi, there! 又重新写起了博客，又可以记录些文字，或总结、或思考，抑或点滴无关紧要的记录。 如果有人觉得有用，那它就有价值，这些文字也会因此感到欣慰。 So, 一起享受这段旅程吧。</description>
     </item>
     
